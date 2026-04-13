@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/GauriShinde09/GauriShinde09/main/banner.png" width="100%"/>
 
-
 # Hi 👋, I'm Gauri
 
 ## 🌐 Connect with me:
